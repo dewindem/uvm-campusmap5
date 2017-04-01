@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: uvm-campusmap5
+  host: uvm-campusmap5
+  disk_quota: 1024M
